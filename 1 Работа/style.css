@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+
+    
+}
+body{
+    background: #ccd9fa;
+}
+.title{
+
+    background-color: #356;
+    width: 240px;
+    height: 50px;
+    background: rgb(219, 158, 239);
+    border: 1px solid;
+}
+.profiles{
+    display: grid;
+    grid-template-columns: 80px 80px 80px;
+    
+    color: black;
+
+    
+}
+.profiles > span{
+    background: rgb(219, 158, 239);
+    border: 1px solid;
+    height: 50px;
+}
+
+.bots{
+    display: grid;
+    grid-template-columns: 80px 80px 80px;
+    margin-top: 20px;
+    height: 50px;
+    color: black;
+  
+    
+}
+.bots > span{
+    background: rgb(219, 158, 239);
+    border: 1px solid;
+    height: 50px;
+}
+.add{
+    display: grid;
+    grid-template-columns: 80px 80px 80px;
+    margin-top: 80px;
+    color: black;
+
+    
+}
+.add > span{
+    
+    background: rgb(219, 158, 239);
+    border: 1px solid;
+    height: 50px;
+}
+
+.all_time{
+    display: grid;
+    grid-template-columns: 80px 80px 80px;
+    color: black;
+
+    
+}.all_time > span{
+    
+    background: rgb(219, 158, 239);
+    border: 1px solid;
+    height: 50px;
+}
+.all_title{
+    margin-top: 20px;
+    background-color: #356;
+    width: 240px;
+    height: 50px;
+    background: rgb(219, 158, 239);
+    border: 1px solid;
+
+}
+.content{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.over{
+    display: grid;
+    grid-template-columns: 80px 80px 80px 80px;
+    color: black;
+
+    
+}
+.over > span{
+    background: rgb(219, 158, 239);
+    border: 1px solid;
+    height: 50px;
+}
+.half_time{
+    display: grid;
+    grid-template-columns: 80px 80px 80px;
+    color: black;
+
+    
+}.half_time > span{
+    
+    background: rgb(219, 158, 239);
+    border: 1px solid;
+    height: 50px;
+}
+.half_title{
+    margin-top: 20px;
+    background-color: #356;
+    width: 240px;
+    height: 50px;
+    background: rgb(219, 158, 239);
+    border: 1px solid;
+
+}
+
+
